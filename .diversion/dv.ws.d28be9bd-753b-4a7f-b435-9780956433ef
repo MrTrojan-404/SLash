@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.d28be9bd-753b-4a7f-b435-9780956433ef",
+  "RepoID": "dv.repo.da1c54d8-ba55-4fbf-b4c8-57b5149d11c2",
+  "Path": "C:\\Users\\aloka\\Documents\\Unreal Projects\\Slash",
+  "AccountID": "alok.a11405_at_gmail.com",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "Slash",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
